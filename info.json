@@ -1,0 +1,62 @@
+[
+    {
+        "image": "./img/gatitobbdurmiendo.jpg",
+        "alt": "gato bebé durmiendo",
+        "text": "De bebita dormía demasiado."
+    },
+    {
+        "image": "./img/gatodurmiendo.jpg",
+        "alt": "gato durmiendo",
+        "text": "Me sigue gustando dormir demasiado."
+    },
+    {
+        "image": "./img/gatodurmiendorandom.jpg",
+        "alt": "gato durmiendo en el piso",
+        "text": "Duermo en todo lugar en el que me acuesto."
+    },
+    {
+        "image": "./img/gatomimos.jpg",
+        "alt": "gato recibiendo mimos",
+        "text": "Me gusta mucho recibir mimos."
+    },
+    {
+        "image": "./img/gatoconhumano.jpg",
+        "alt": "gato tocando a una persona",
+        "text": "Me gusta molestar a mi humana."
+    },
+    {
+        "image": "./img/gatobañandose.jpg",
+        "alt": "gato bañandose",
+        "text": "Me baño un montón."
+    },
+    {
+        "image": "./img/gatocomiendo3.jpg",
+        "alt": "gato saboreandose después de comer",
+        "text": "Soy fan n°1 de la comida."
+    },
+    {
+        "image": "./img/gatoafuera.jpg",
+        "alt": "gato acostado en el jardín",
+        "text": "Me gusta mucho estar en el jardín."
+    },
+    {
+        "image": "./img/gatopaseando.jpg",
+        "alt": "gato paseando en la calle",
+        "text": "A veces me escapo y mi mamá se enoja."
+    },
+    {
+        "image": "./img/gatoconjuguetes.jpg",
+        "alt": "gato con juguetes",
+        "text": "Soy una gatita muy juguetona."
+    },
+    {
+        "image": "./img/gatoconotromichi.jpg",
+        "alt": "gato jugando con otro gato",
+        "text": "Me gusta molestar a mi hermana Aqua."
+    },
+    {
+        "image": "./img/gatoenlamesa.jpg",
+        "alt": "gato sentado en una mesa",
+        "text": "Me subo a todos los lugares altos."
+    }
+]
