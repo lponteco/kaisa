@@ -1,17 +1,23 @@
 document.getElementById("header").innerHTML = `
     <header>
-        <h1>Kaisa</h1>
         <nav>
-            <button class="menu-toggle">☰</button>
+            <h1>Kaisa</h1>
+
+            <input type="checkbox" id="menu-toggle" class="menu-toggle">
+            <label for="menu-toggle" class="menu-icon">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </label>
 
             <ul class="nav-links">
 
-                    <a href="#" id="dark-mode-toggle" class="dark-mode-toggle">
-            <i class="fa-solid fa-moon"></i>
-        </a>
-                <li><a href="#home">Inicio</a></li>
-                <li><a href="#about">Sobre mí</a></li>
-                <li><a href="#contact">Contacto</a></li>
+            <a href="#" id="dark-mode-toggle" class="dark-mode-toggle">
+            <i class="fa-solid fa-moon"></i> </a>
+
+            <li><a href="#home">Inicio</a></li>
+            <li><a href="#about">Sobre mi</a></li>
+            <li><a href="#contact">Contacto</a></li>
             </ul>
         </nav>
     </header>
