@@ -35,7 +35,7 @@ document.getElementById("contacto").innerHTML = `
      <section class="contact">
         <h2>Contacto 📧</h2>
         <a name="contact"></a>
-        <form id="formRegistro" action="#" method="POST">
+        <form id="formRegistro" action="https://formspree.io/f/xzzbjlyr" method="POST">
           <label for="name">Nombre:</label>
           <input type="text" id="name" name="name" placeholder="Tu nombre">
           <p class="error1" id="errorName"></p>
